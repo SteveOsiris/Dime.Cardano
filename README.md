@@ -1,4 +1,4 @@
-# Lime.Cardano
+# Dime.Cardano
 
 # cardano-web3.js
 
